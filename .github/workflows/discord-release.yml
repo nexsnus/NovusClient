@@ -29,6 +29,7 @@ jobs:
           name = os.environ.get("RELEASE_NAME") or os.environ.get("RELEASE_TAG") or "Manueller Test"
           tag = os.environ.get("RELEASE_TAG") or "Manueller Test"
           body = os.environ.get("RELEASE_BODY") or "Keine Release Notes vorhanden."
+          url = os.environ["DISCORD_WEBHOOK"]
 
           message = {
               "embeds": [{
