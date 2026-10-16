@@ -1,0 +1,55 @@
+
+name: Discord Release Notes
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  discord:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send release to Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          RELEASE_NAME: ${{ github.event.release.name }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+          RELEASE_BODY: ${{ github.event.release.body }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+
+          name = os.environ.get("RELEASE_NAME") or os.environ["RELEASE_TAG"]
+          tag = os.environ["RELEASE_TAG"]
+          body = os.environ.get("RELEASE_BODY") or "Keine Release Notes vorhanden."
+
+          message = {
+              "embeds": [{
+                  "title": f"{name}",
+                  "description": body[:4000],
+                  "color": 5793266,
+                  "fields": [{
+                      "name": "Version",
+                      "value": f"`{tag}`",
+                      "inline": True
+                  }],
+                  "footer": {"text": "Es gibt eine neue Novus Client Version"}
+              }]
+          }
+
+          request = urllib.request.Request(
+              os.environ["DISCORD_WEBHOOK"],
+              data=json.dumps(message).encode("utf-8"),
+              headers={"Content-Type": "application/json"},
+              method="POST"
+          )
+
+          with urllib.request.urlopen(request, timeout=15) as response:
+              print("Discord response:", response.status)
+          PY
