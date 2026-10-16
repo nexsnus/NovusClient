@@ -19,6 +19,7 @@ jobs:
           RELEASE_NAME: ${{ github.event.release.name }}
           RELEASE_TAG: ${{ github.event.release.tag_name }}
           RELEASE_BODY: ${{ github.event.release.body }}
+          EVENT_NAME: ${{ github.event_name }}
         run: |
           python - <<'PY'
           import json
@@ -26,35 +27,39 @@ jobs:
           import urllib.request
           import urllib.error
 
-          name = os.environ.get("RELEASE_NAME") or os.environ.get("RELEASE_TAG") or "Manueller Test"
+          webhook = os.environ["DISCORD_WEBHOOK"]
+          name = os.environ.get("RELEASE_NAME") or "Manueller Test"
           tag = os.environ.get("RELEASE_TAG") or "Manueller Test"
           body = os.environ.get("RELEASE_BODY") or "Keine Release Notes vorhanden."
-          url = os.environ["DISCORD_WEBHOOK"]
 
-          message = {
-              "embeds": [{
-                  "title": name,
-                  "description": body[:4000],
-                  "color": 5793266,
-                  "fields": [{
+          embed = {
+              "title": name[:256],
+              "description": body[:4000],
+              "color": 5793266,
+              "fields": [
+                  {
                       "name": "Version",
-                      "value": f"`{tag}`",
+                      "value": f"`{tag[:200]}`",
                       "inline": True
-                  }],
-                  "footer": {
-                      "text": "Es gibt eine neue Novus Client Version"
                   }
-              }]
+              ],
+              "footer": {
+                  "text": "Es gibt eine neue Novus Client Version"
+              }
           }
 
-          webhook = os.environ.get("DISCORD_WEBHOOK")
-          if not webhook:
-              raise RuntimeError("DISCORD_WEBHOOK Secret fehlt.")
+          payload = {
+              "content": "🚀 Neue Novus Client Version!" if os.environ["EVENT_NAME"] == "release" else "🧪 Discord Webhook Test",
+              "embeds": [embed]
+          }
 
           request = urllib.request.Request(
               webhook,
-              data=json.dumps(message).encode("utf-8"),
-              headers={"Content-Type": "application/json"},
+              data=json.dumps(payload).encode("utf-8"),
+              headers={
+                  "Content-Type": "application/json",
+                  "User-Agent": "NovusClientReleaseBot/1.0"
+              },
               method="POST"
           )
 
