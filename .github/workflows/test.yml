@@ -1,4 +1,5 @@
       - name: Test Discord Webhook
+        workflow_dispatch:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
