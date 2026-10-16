@@ -1,5 +1,18 @@
+```yaml
+name: Discord Webhook Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
       - name: Test Discord Webhook
-        workflow_dispatch:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
@@ -9,23 +22,36 @@
           import urllib.request
           import urllib.error
 
+          webhook = os.environ.get("DISCORD_WEBHOOK")
+
+          if not webhook:
+              raise SystemExit("Fehler: DISCORD_WEBHOOK Secret fehlt!")
+
+          payload = {
+              "content": "Testnachricht aus GitHub Actions"
+          }
+
           request = urllib.request.Request(
-              os.environ["DISCORD_WEBHOOK"],
-              data=json.dumps({
-                  "content": "Testnachricht aus GitHub Actions"
-              }).encode("utf-8"),
+              webhook,
+              data=json.dumps(payload).encode("utf-8"),
               headers={
                   "Content-Type": "application/json",
-                  "User-Agent": "NovusClientReleaseBot (https://github.com/USERNAME/REPOSITORY, 1.0)"
+                  "User-Agent": "NovusClientReleaseBot/1.0"
               },
               method="POST"
           )
 
           try:
               with urllib.request.urlopen(request, timeout=15) as response:
-                  print("Erfolgreich:", response.status)
+                  print("Webhook erfolgreich!")
+                  print("HTTP-Status:", response.status)
           except urllib.error.HTTPError as error:
               print("HTTP-Fehler:", error.code)
+              print("Discord-Antwort:")
               print(error.read().decode("utf-8", errors="replace"))
               raise
+          except Exception as error:
+              print("Verbindungsfehler:", str(error))
+              raise
           PY
+```
