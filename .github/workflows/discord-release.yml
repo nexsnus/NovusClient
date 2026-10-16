@@ -1,9 +1,9 @@
-
 name: Discord Release Notes
 
 on:
   release:
     types: [published]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -24,14 +24,15 @@ jobs:
           import json
           import os
           import urllib.request
+          import urllib.error
 
-          name = os.environ.get("RELEASE_NAME") or os.environ["RELEASE_TAG"]
-          tag = os.environ["RELEASE_TAG"]
+          name = os.environ.get("RELEASE_NAME") or os.environ.get("RELEASE_TAG") or "Manueller Test"
+          tag = os.environ.get("RELEASE_TAG") or "Manueller Test"
           body = os.environ.get("RELEASE_BODY") or "Keine Release Notes vorhanden."
 
           message = {
               "embeds": [{
-                  "title": f"{name}",
+                  "title": name,
                   "description": body[:4000],
                   "color": 5793266,
                   "fields": [{
@@ -39,12 +40,18 @@ jobs:
                       "value": f"`{tag}`",
                       "inline": True
                   }],
-                  "footer": {"text": "Es gibt eine neue Novus Client Version"}
+                  "footer": {
+                      "text": "Es gibt eine neue Novus Client Version"
+                  }
               }]
           }
 
+          webhook = os.environ.get("DISCORD_WEBHOOK")
+          if not webhook:
+              raise RuntimeError("DISCORD_WEBHOOK Secret fehlt.")
+
           request = urllib.request.Request(
-              os.environ["DISCORD_WEBHOOK"],
+              webhook,
               data=json.dumps(message).encode("utf-8"),
               headers={"Content-Type": "application/json"},
               method="POST"
@@ -57,5 +64,4 @@ jobs:
               print("Discord HTTP error:", error.code)
               print(error.read().decode("utf-8", errors="replace"))
               raise
-
           PY
