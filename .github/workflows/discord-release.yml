@@ -33,7 +33,7 @@ jobs:
           body = os.environ.get("RELEASE_BODY") or "Keine Release Notes vorhanden."
 
           embed = {
-              "title": name[:256],
+              "title": "Ein neues Novus Client Update ist da!"[:256],
               "description": body[:4000],
               "color": 5793266,
               "fields": [
@@ -49,7 +49,6 @@ jobs:
           }
 
           payload = {
-              "content": "🚀 Neue Novus Client Version!" if os.environ["EVENT_NAME"] == "release" else "🧪 Discord Webhook Test",
               "embeds": [embed]
           }
 
