@@ -1,4 +1,3 @@
-```yaml
 name: Discord Webhook Test
 
 on:
@@ -54,4 +53,3 @@ jobs:
               print("Verbindungsfehler:", str(error))
               raise
           PY
-```
