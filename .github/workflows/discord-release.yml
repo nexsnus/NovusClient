@@ -42,10 +42,7 @@ jobs:
                       "value": f"`{tag[:200]}`",
                       "inline": True
                   }
-              ],
-              "footer": {
-                  "text": "Es gibt eine neue Novus Client Version"
-              }
+              ]
           }
 
           payload = {
