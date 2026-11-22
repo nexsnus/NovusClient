@@ -33,7 +33,7 @@ jobs:
           body = os.environ.get("RELEASE_BODY") or "Keine Release Notes vorhanden."
 
           embed = {
-              "title": "Ein neues Novus Client Update ist da!"[:256],
+              "title": "Ein neues NovusOS Update ist da!"[:256],
               "description": body[:4000],
               "color": 5793266,
               "fields": [
