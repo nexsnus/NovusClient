@@ -22,7 +22,7 @@
       "category": "crystal",
       "name": "0LoyalV1",
       "sha256": "4e5cbea4aad99fe7fe8609ab672a6a154d75c0766fa2999e7a29a8ee3692ada3",
-      "size": 2204,
+      "size": 2827,
       "added": "2026-11-25"
     },
     {
@@ -509,8 +509,8 @@
       "id": "mace_axxins_15k_pack",
       "category": "mace",
       "name": "Axxins 15k Pack",
-      "sha256": "12004b32be11d0bf163bdd1d78c48d21779efa92e01a254ac669882f780ec40a",
-      "size": 2548,
+      "sha256": "2c56760fbcbf13515d3173aeb184ecac04b1dbdff8b06309ab02f3a172d722e7",
+      "size": 5798,
       "added": "2026-11-25"
     },
     {
@@ -598,7 +598,7 @@
       "category": "crystal",
       "name": "Axxins 17k Pack",
       "sha256": "59371ae4d29593ff003905a2dcd169462f2e18ffc08e69f70cff0b6fbe2ba75b",
-      "size": 12199,
+      "size": 12822,
       "added": "2026-11-25"
     },
     {
@@ -645,8 +645,8 @@
       "id": "mace_axxins_17k_pack",
       "category": "mace",
       "name": "Axxins 17k Pack",
-      "sha256": "12004b32be11d0bf163bdd1d78c48d21779efa92e01a254ac669882f780ec40a",
-      "size": 2548,
+      "sha256": "2c56760fbcbf13515d3173aeb184ecac04b1dbdff8b06309ab02f3a172d722e7",
+      "size": 5798,
       "added": "2026-11-25"
     },
     {
@@ -742,7 +742,7 @@
       "category": "crystal",
       "name": "f_Axxin_8l20K_",
       "sha256": "9c7426d58bef17331b3400b5a31e544afa71e372473ec776c3bc70d6f12a1c23",
-      "size": 5763,
+      "size": 6427,
       "added": "2026-11-25"
     },
     {
@@ -805,8 +805,8 @@
       "id": "mace_f_axxin_8l20k",
       "category": "mace",
       "name": "f_Axxin_8l20K_",
-      "sha256": "71fa20a98e4c340057f5757f5a861f9b05c3a30e9c8b55edbf8327267f61c015",
-      "size": 3261,
+      "sha256": "5ad0d3dc89a00c493856b86011be05fc5475c59c283d808a9613bc1904786dae",
+      "size": 6424,
       "added": "2026-11-25"
     },
     {
@@ -942,7 +942,7 @@
       "category": "crystal",
       "name": "K123r_lxx_l540_k123",
       "sha256": "9cadbef838131f0fb8dd8f50c80bbb1ac5d1d5911ef97ddc7f56c62474f4a9a4",
-      "size": 18714,
+      "size": 19513,
       "added": "2026-11-25"
     },
     {
@@ -1005,8 +1005,8 @@
       "id": "mace_k123r_lxx_l540_k123",
       "category": "mace",
       "name": "K123r_lxx_l540_k123",
-      "sha256": "9f73686ab853dd3ae20c6e3ad7379c9303de090e2775e7b673d97158dbf6f08d",
-      "size": 3158,
+      "sha256": "f354b70667194a5be73cf83466a4d2044c8000f825bc8b06b9564138b6ad9f30",
+      "size": 6350,
       "added": "2026-11-25"
     },
     {
@@ -1157,8 +1157,8 @@
       "id": "mace_e_laxxin_famous_pack_ohne_totem",
       "category": "mace",
       "name": "§e§lAxxin Famous Pack (ohne Totem)",
-      "sha256": "12392d7272f064e82f24d0c5841efa3a59e7527fcad2e0cbe72630e9e84e96de",
-      "size": 2981,
+      "sha256": "6ce4562e0444a815b4e7fc47433d2677e56fe3e39f775233a9211f93c5f1ad64",
+      "size": 6540,
       "added": "2026-11-25"
     },
     {
@@ -1454,7 +1454,7 @@
       "category": "crystal",
       "name": "§demregk9 §5Media §5Pack§f 2",
       "sha256": "6d14b3e4a8ae76308261312c9280ec79864d51b82b6aa0a1a1ddfb3f0f0f6f77",
-      "size": 4813,
+      "size": 5436,
       "added": "2026-11-25"
     },
     {
@@ -1517,7 +1517,7 @@
       "id": "mace_demregk9_5media_5pack_f_2",
       "category": "mace",
       "name": "§demregk9 §5Media §5Pack§f 2",
-      "sha256": "31bb256b89ad2a71c1280ce3784ad9b088d1e05a9444dc3f60ff44178a5a8da8",
+      "sha256": "c4b545d2e29e134343e654bad68d9e9beeb72636a201744f2b1064dac2bf16df",
       "size": 619,
       "added": "2026-11-25"
     },
@@ -1654,7 +1654,7 @@
       "category": "crystal",
       "name": "FreddiHD23 BLACK V2 CLEAN",
       "sha256": "c3ef5c4192f9f7eafee0e84a8d1e2925c774cee67adaecf9203dec4fb69e1fd5",
-      "size": 2407,
+      "size": 2655,
       "added": "2026-11-25"
     },
     {
@@ -1717,8 +1717,8 @@
       "id": "mace_freddihd23_black_v2_clean",
       "category": "mace",
       "name": "FreddiHD23 BLACK V2 CLEAN",
-      "sha256": "76de888194890e59a35fccd3f6f60f1780783576a63a1e9af5b0b393374e55a7",
-      "size": 479,
+      "sha256": "dc3ebd2766caa7014571576774ce66e35c9698e0f3420396ced3a426352e2b13",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -1854,7 +1854,7 @@
       "category": "crystal",
       "name": "Freddihd23 BLUE pack",
       "sha256": "2b58d15f8a0d782065807d4ec5b6d51317fb15b7692b07f294e843c13c85d564",
-      "size": 2358,
+      "size": 2606,
       "added": "2026-11-25"
     },
     {
@@ -1917,8 +1917,8 @@
       "id": "mace_freddihd23_blue_pack",
       "category": "mace",
       "name": "Freddihd23 BLUE pack",
-      "sha256": "10c336ea3eb22180299fa5b16903bfbc913f3a37ec20e9d490aad31ee6b041ca",
-      "size": 479,
+      "sha256": "dc3ebd2766caa7014571576774ce66e35c9698e0f3420396ced3a426352e2b13",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -2054,7 +2054,7 @@
       "category": "crystal",
       "name": "Freddihd23 GREY pack",
       "sha256": "c3ef5c4192f9f7eafee0e84a8d1e2925c774cee67adaecf9203dec4fb69e1fd5",
-      "size": 2407,
+      "size": 2655,
       "added": "2026-11-25"
     },
     {
@@ -2117,8 +2117,8 @@
       "id": "mace_freddihd23_grey_pack",
       "category": "mace",
       "name": "Freddihd23 GREY pack",
-      "sha256": "10c336ea3eb22180299fa5b16903bfbc913f3a37ec20e9d490aad31ee6b041ca",
-      "size": 479,
+      "sha256": "0d26bb8d6730a7bae3ad48b8b4a8d903b941d942b0e5c841b41652c86afe2bab",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -2254,7 +2254,7 @@
       "category": "crystal",
       "name": "Freddihd23 RED pack",
       "sha256": "3e4700257bdbde112d4ee84cba10212b5c694a62e523ad5f3ac9dc647acc6f88",
-      "size": 2457,
+      "size": 2705,
       "added": "2026-11-25"
     },
     {
@@ -2317,8 +2317,8 @@
       "id": "mace_freddihd23_red_pack",
       "category": "mace",
       "name": "Freddihd23 RED pack",
-      "sha256": "10c336ea3eb22180299fa5b16903bfbc913f3a37ec20e9d490aad31ee6b041ca",
-      "size": 479,
+      "sha256": "0d26bb8d6730a7bae3ad48b8b4a8d903b941d942b0e5c841b41652c86afe2bab",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -2454,7 +2454,7 @@
       "category": "crystal",
       "name": "Freddihd23 SAKURA pack",
       "sha256": "caa25ddd6f494a3bbb1fdb70f99094d282ccc40bebca16c14959a0d6c9fcd23a",
-      "size": 2341,
+      "size": 2589,
       "added": "2026-11-25"
     },
     {
@@ -2517,8 +2517,8 @@
       "id": "mace_freddihd23_sakura_pack",
       "category": "mace",
       "name": "Freddihd23 SAKURA pack",
-      "sha256": "62a59d82a7660a279a8de6490770bac77966927517ef6663c0d47b609ca2b4f4",
-      "size": 479,
+      "sha256": "0d26bb8d6730a7bae3ad48b8b4a8d903b941d942b0e5c841b41652c86afe2bab",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -2654,7 +2654,7 @@
       "category": "crystal",
       "name": "Freddihd23 WHITE pack",
       "sha256": "897a15e662644f00f9b680aaae251bea20901e84477e02d7f8f887adb62d77b7",
-      "size": 2353,
+      "size": 2601,
       "added": "2026-11-25"
     },
     {
@@ -2717,8 +2717,8 @@
       "id": "mace_freddihd23_white_pack",
       "category": "mace",
       "name": "Freddihd23 WHITE pack",
-      "sha256": "62a59d82a7660a279a8de6490770bac77966927517ef6663c0d47b609ca2b4f4",
-      "size": 479,
+      "sha256": "0d26bb8d6730a7bae3ad48b8b4a8d903b941d942b0e5c841b41652c86afe2bab",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -2854,7 +2854,7 @@
       "category": "crystal",
       "name": "Freddihd23_PINK_pack",
       "sha256": "d3ef32c0f6b0a7e08cbbd4138931dd49a64512d1117319a8b24c8a619c5a7dc9",
-      "size": 2327,
+      "size": 2575,
       "added": "2026-11-25"
     },
     {
@@ -2917,8 +2917,8 @@
       "id": "mace_freddihd23_pink_pack",
       "category": "mace",
       "name": "Freddihd23_PINK_pack",
-      "sha256": "7d013824964ca0d4922886d736d9631099176e40e6ff72ab885dca2930f71da7",
-      "size": 479,
+      "sha256": "0d26bb8d6730a7bae3ad48b8b4a8d903b941d942b0e5c841b41652c86afe2bab",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -3173,8 +3173,8 @@
       "id": "mace_frexxy_yellow",
       "category": "mace",
       "name": "Frexxy Yellow",
-      "sha256": "088f73db3d8416b291bb1e39cd184b9a1b9d4402bb3dd800410ab5321dd3a1da",
-      "size": 613,
+      "sha256": "7ed4de85ff6b860bfffccd2027661991d8e25d416ff7b1f2c7f257ade67d6d75",
+      "size": 960,
       "added": "2026-11-25"
     },
     {
@@ -3254,7 +3254,7 @@
       "category": "crystal",
       "name": "Frexxy16 Anime Pack",
       "sha256": "15d4f504b804f9bbc3312bafd46a84b1d601274291d545724859fd8bf0834b11",
-      "size": 8909,
+      "size": 9532,
       "added": "2026-11-25"
     },
     {
@@ -3437,8 +3437,8 @@
       "id": "mace_g0ek1_light_blue",
       "category": "mace",
       "name": "g0ek1 light blue",
-      "sha256": "9b9f70896dacbd50fca636f28fa56f6a3ded843c3ab278fa6812ee9870f63d0f",
-      "size": 479,
+      "sha256": "e279b884d823a073588ffe39454e414ae8c8dd169e84b8e84d5f5b53dc878208",
+      "size": 4521,
       "added": "2026-11-25"
     },
     {
@@ -3501,8 +3501,8 @@
       "id": "mace_g0ek1_private",
       "category": "mace",
       "name": "g0ek1 private",
-      "sha256": "2e0dd48d764594d5495721d7d80afc5703628b142180fc4a34f73d9b070e121b",
-      "size": 479,
+      "sha256": "6198608939161b634474be13ea17794c900eea01bdf1d746d4879724cde78ea3",
+      "size": 4521,
       "added": "2026-11-25"
     },
     {
@@ -3573,8 +3573,8 @@
       "id": "mace_g0ek1_void",
       "category": "mace",
       "name": "g0ek1_void",
-      "sha256": "2e0dd48d764594d5495721d7d80afc5703628b142180fc4a34f73d9b070e121b",
-      "size": 479,
+      "sha256": "6198608939161b634474be13ea17794c900eea01bdf1d746d4879724cde78ea3",
+      "size": 4521,
       "added": "2026-11-25"
     },
     {
@@ -3894,7 +3894,7 @@
       "category": "crystal",
       "name": "bl_H1rx57_LightBlue",
       "sha256": "5aebf45ef214727e823c0d0eea560f82991400ff6c0bbaed8c35e096aea9f6fb",
-      "size": 3898,
+      "size": 4186,
       "added": "2026-11-25"
     },
     {
@@ -3949,8 +3949,8 @@
       "id": "mace_bl_h1rx57_lightblue",
       "category": "mace",
       "name": "bl_H1rx57_LightBlue",
-      "sha256": "baba5ce0468902d1b97265c292790f891ec7744d01903a524e56f7e2e3a08c29",
-      "size": 2548,
+      "sha256": "30c9a1d0e42645f4f70e92f0d4d25cfa4b1cc5f67782aeff512cda4ab271991e",
+      "size": 5393,
       "added": "2026-11-25"
     },
     {
@@ -4014,7 +4014,7 @@
       "category": "crystal",
       "name": "§4§l 720 pack",
       "sha256": "584232b67b900f917c2de3d950f7ebcac801b141a6845811e98687e03698430e",
-      "size": 2714,
+      "size": 3002,
       "added": "2026-11-25"
     },
     {
@@ -4077,8 +4077,8 @@
       "id": "mace_4_l_720_pack",
       "category": "mace",
       "name": "§4§l 720 pack",
-      "sha256": "baba5ce0468902d1b97265c292790f891ec7744d01903a524e56f7e2e3a08c29",
-      "size": 2548,
+      "sha256": "30c9a1d0e42645f4f70e92f0d4d25cfa4b1cc5f67782aeff512cda4ab271991e",
+      "size": 5393,
       "added": "2026-11-25"
     },
     {
@@ -4365,8 +4365,8 @@
       "id": "mace_d_lg_5_le_d_ln_f_lwhite",
       "category": "mace",
       "name": "§d§lG§5§lE§d§lN §f§lwhite",
-      "sha256": "baba5ce0468902d1b97265c292790f891ec7744d01903a524e56f7e2e3a08c29",
-      "size": 2548,
+      "sha256": "30c9a1d0e42645f4f70e92f0d4d25cfa4b1cc5f67782aeff512cda4ab271991e",
+      "size": 5393,
       "added": "2026-11-25"
     },
     {
@@ -4462,7 +4462,7 @@
       "category": "crystal",
       "name": "§f§l Fizzys Clan",
       "sha256": "d7ed9bdec7758409963e2045020ee9e05d38de1b05293382dd7cc935780836e7",
-      "size": 5546,
+      "size": 5834,
       "added": "2026-11-25"
     },
     {
@@ -4509,8 +4509,8 @@
       "id": "mace_f_l_fizzys_clan",
       "category": "mace",
       "name": "§f§l Fizzys Clan",
-      "sha256": "baba5ce0468902d1b97265c292790f891ec7744d01903a524e56f7e2e3a08c29",
-      "size": 2548,
+      "sha256": "30c9a1d0e42645f4f70e92f0d4d25cfa4b1cc5f67782aeff512cda4ab271991e",
+      "size": 5393,
       "added": "2026-11-25"
     },
     {
@@ -4606,7 +4606,7 @@
       "category": "crystal",
       "name": "HitsOnly`s Aqua Pack",
       "sha256": "646637a9ff6b8c392d18e2cb4792530e2f6e4e7425f770a0f7503f900bc20f7a",
-      "size": 5094,
+      "size": 2558,
       "added": "2026-11-25"
     },
     {
@@ -4926,7 +4926,7 @@
       "category": "crystal",
       "name": "Maureso Blau",
       "sha256": "683b7fc97d9d135567e03877572ad1bf59101e5ba40f4a477e08ed9c3e314e33",
-      "size": 3752,
+      "size": 4000,
       "added": "2026-11-25"
     },
     {
@@ -4989,8 +4989,8 @@
       "id": "mace_maureso_blau",
       "category": "mace",
       "name": "Maureso Blau",
-      "sha256": "9bc566cc0d310d1e71ba6acc455603172e8dedaab927ee498bce65d6755a0613",
-      "size": 479,
+      "sha256": "caf477c524a14306531fac51da6edfb82671030993f71275b71a83e01d1cdcba",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -5126,7 +5126,7 @@
       "category": "crystal",
       "name": "Maureso Red",
       "sha256": "465963b12d601d14658ae13bd6aa8ca273c1808a6d2be970e532769dcda2a717",
-      "size": 3829,
+      "size": 4077,
       "added": "2026-11-25"
     },
     {
@@ -5189,8 +5189,8 @@
       "id": "mace_maureso_red",
       "category": "mace",
       "name": "Maureso Red",
-      "sha256": "9bc566cc0d310d1e71ba6acc455603172e8dedaab927ee498bce65d6755a0613",
-      "size": 479,
+      "sha256": "caf477c524a14306531fac51da6edfb82671030993f71275b71a83e01d1cdcba",
+      "size": 1057,
       "added": "2026-11-25"
     },
     {
@@ -5414,7 +5414,7 @@
       "category": "crystal",
       "name": "axolotl",
       "sha256": "cfcc623998c1a5624e4318be1fb3ea8cf332b661fa7f6571028508550be060d0",
-      "size": 6030,
+      "size": 6712,
       "added": "2026-11-25"
     },
     {
@@ -5558,7 +5558,7 @@
       "category": "crystal",
       "name": "Cry4me",
       "sha256": "eeeb4223589692fb2a40a2feaaa3401f4aa9b08b396d3797ceca92dec6f9b0d7",
-      "size": 6822,
+      "size": 7445,
       "added": "2026-11-25"
     },
     {
@@ -5662,7 +5662,7 @@
       "category": "crystal",
       "name": "Dark Vanilla+",
       "sha256": "c88470a809a6888ecaca16884c017081711f99db4d17e4e6cd8760262bfadcba",
-      "size": 4671,
+      "size": 5294,
       "added": "2026-11-25"
     },
     {
@@ -5782,7 +5782,7 @@
       "category": "crystal",
       "name": "dPitviper_Pink_Pack",
       "sha256": "d390168a4c9f81055f8b96a3a7b12d7e78abab49076e17b3ade2446b19e46f7a",
-      "size": 2093,
+      "size": 2341,
       "added": "2026-11-25"
     },
     {
@@ -5838,7 +5838,7 @@
       "category": "crystal",
       "name": "dSakuraV2_5Private",
       "sha256": "d5163be5590ff2eca38b6470cd2ee114904c16e80589c3fa7d1aa0b9ea5b1452",
-      "size": 3100,
+      "size": 1561,
       "added": "2026-11-25"
     },
     {
@@ -6013,8 +6013,8 @@
       "id": "mace_k1rbe",
       "category": "mace",
       "name": "K1rbe",
-      "sha256": "abdbf5b470049567a73a7b33005f10461d1b4e4291bc45cc4d6346b619365ce7",
-      "size": 1933,
+      "sha256": "cdb764c56733402ffc51cc87590277f4767c91f63044e80a5c5b8e8e54a2665e",
+      "size": 2512,
       "added": "2026-11-25"
     },
     {
@@ -6078,7 +6078,7 @@
       "category": "crystal",
       "name": "KingD3Fault Private",
       "sha256": "b32594861ffebf93f90033113dda505bba304165c5611ed4209e5daa6ff68dca",
-      "size": 5920,
+      "size": 6543,
       "added": "2026-11-25"
     },
     {
@@ -6238,7 +6238,7 @@
       "category": "crystal",
       "name": "MI6_PACK",
       "sha256": "f8251047f86c24b9552bb23e8a265c1c9567f1ff9668fb0c444b3198284091a2",
-      "size": 4358,
+      "size": 4981,
       "added": "2026-11-25"
     },
     {
@@ -6422,7 +6422,7 @@
       "category": "crystal",
       "name": "mr blue sky",
       "sha256": "ba540146c768d1770c863b0e5693efb5a219e3e277c9d6ae1038f52bb3ae2425",
-      "size": 7487,
+      "size": 8110,
       "added": "2026-11-25"
     },
     {
@@ -6870,7 +6870,7 @@
       "category": "crystal",
       "name": "Alek Japanese Pack",
       "sha256": "ad31e02cd1c7e7aff7c3b064b5297b25d3b02783ba6da7a3adc7cc13170466cf",
-      "size": 4492,
+      "size": 5115,
       "added": "2026-11-25"
     },
     {
@@ -6909,7 +6909,7 @@
       "id": "mace_alek_japanese_pack",
       "category": "mace",
       "name": "Alek Japanese Pack",
-      "sha256": "8d5aa500e0b2da01c978614e15bc3909fb50b589153bdc6b7eb03b38062b7f27",
+      "sha256": "3b1c54102ec7c7bcac001220ed346781e2fe3b201b74e6aceef113ea6ecccdfc",
       "size": 390,
       "added": "2026-11-25"
     },
@@ -7077,7 +7077,7 @@
       "id": "mace_clear_vision_purple_1_21_1",
       "category": "mace",
       "name": "Clear Vision Purple 1.21 (1)",
-      "sha256": "720dd45e8704c132b59979281695320fd905a19be76d951fe87881300f7edf36",
+      "sha256": "c519e6efad9d17826b07c3e59209beda1a11c90ea452dfda3184a7aaf81e409d",
       "size": 479,
       "added": "2026-11-25"
     },
@@ -7213,8 +7213,8 @@
       "id": "mace_hammer_over_mace",
       "category": "mace",
       "name": "hammer-over-mace",
-      "sha256": "0fd96542aae0ab338252c6228eee552d209af8da61a1abf46584919ce9a58d54",
-      "size": 650,
+      "sha256": "477866fdc01ec94d67055da81975a4abac8823dda5561b958143881a7abe80d7",
+      "size": 1680,
       "added": "2026-11-25"
     },
     {
@@ -7245,8 +7245,8 @@
       "id": "mace_k1rbe_and_kesu_pack",
       "category": "mace",
       "name": "k1rbe and kesu pack",
-      "sha256": "4c5a931fcc3f0890665e6bd0b021f39445f2c6ebb8f01bcdaf7c53bb160cb062",
-      "size": 1933,
+      "sha256": "03fb35edb9b0f24eb79445446d875ff3aa0e2f7f97459d7f125da446945167af",
+      "size": 2512,
       "added": "2026-11-25"
     },
     {
@@ -7293,8 +7293,8 @@
       "id": "mace_mace_to_hammer",
       "category": "mace",
       "name": "Mace to Hammer",
-      "sha256": "633e3339a0e1590f888d4513664c80e82b3cf49445e4d85d87a4824dae90f0d1",
-      "size": 407,
+      "sha256": "8be8137cc400a81ec0a45e51512591b1e14b9f5058dfa58d17429c6c9cf8848a",
+      "size": 1339,
       "added": "2026-11-25"
     },
     {
@@ -7477,8 +7477,8 @@
       "id": "mace_wardenwhite",
       "category": "mace",
       "name": "wardenwhite",
-      "sha256": "1fd24c6fcd0433dabd5cfb2b3210addacd39a2d6d5bea9534ca6aa4de4992f0a",
-      "size": 2851,
+      "sha256": "bfc42e2454bd1db3a41e11839feb1bf24bc2b606f0ca639298adaeaa16e3fc94",
+      "size": 4422,
       "added": "2026-11-25"
     },
     {
@@ -7605,7 +7605,7 @@
       "id": "mace_5_wardenfx_private",
       "category": "mace",
       "name": "§5§ wardenfx private",
-      "sha256": "4acab79f72ed3ae9efd7f19d9872a6b7ba7daa56f2fe80ff6497bc9f0aacc95f",
+      "sha256": "db80aae823ed43698f9919fefc47fe0674a6c67983a5951f631dc7320082148d",
       "size": 597,
       "added": "2026-11-25"
     },
@@ -7806,7 +7806,7 @@
       "category": "crystal",
       "name": "xyz§7oom §530k (1)",
       "sha256": "238319e4d9a2fc509159ec742c0e2c6ea041f6159882a04bde7a33d2ba50d987",
-      "size": 1012118,
+      "size": 1012741,
       "added": "2026-11-25"
     },
     {
@@ -7877,8 +7877,8 @@
       "id": "mace_xyz_7oom_530k_1",
       "category": "mace",
       "name": "xyz§7oom §530k (1)",
-      "sha256": "37ef8deac3d757827a68b1a9043c548917b95147192449c798fbdddf671d9e41",
-      "size": 1472,
+      "sha256": "f15bff737bfb0b8a24a1856fa7b102e6377d8c45d81e3665106bf5e53b4bedea",
+      "size": 4664,
       "added": "2026-11-25"
     },
     {
@@ -8038,7 +8038,7 @@
       "category": "crystal",
       "name": "xyz§7oom §530k (2)",
       "sha256": "238319e4d9a2fc509159ec742c0e2c6ea041f6159882a04bde7a33d2ba50d987",
-      "size": 1012118,
+      "size": 1012741,
       "added": "2026-11-25"
     },
     {
@@ -8109,8 +8109,8 @@
       "id": "mace_xyz_7oom_530k_2",
       "category": "mace",
       "name": "xyz§7oom §530k (2)",
-      "sha256": "9c9825abae89a21c6ac2a4f4a3b7b136163f607fa9de9284e260f469adddb1c7",
-      "size": 1472,
+      "sha256": "f15bff737bfb0b8a24a1856fa7b102e6377d8c45d81e3665106bf5e53b4bedea",
+      "size": 4664,
       "added": "2026-11-25"
     },
     {
@@ -8270,7 +8270,7 @@
       "category": "crystal",
       "name": "xyz§7oom §530k §b[Default] Old",
       "sha256": "a3653fec75f7c5e359bc4e1ccab882d2139a1b27c23252052fa8b9549e557153",
-      "size": 1012118,
+      "size": 1012741,
       "added": "2026-11-25"
     },
     {
@@ -8341,8 +8341,8 @@
       "id": "mace_xyz_7oom_530k_b_default_old",
       "category": "mace",
       "name": "xyz§7oom §530k §b[Default] Old",
-      "sha256": "9c9825abae89a21c6ac2a4f4a3b7b136163f607fa9de9284e260f469adddb1c7",
-      "size": 1472,
+      "sha256": "781067643338ab1050370566ef9c2d029b6961ee2e770159460bec9203b92b3d",
+      "size": 4664,
       "added": "2026-11-25"
     },
     {
@@ -8494,7 +8494,7 @@
       "category": "crystal",
       "name": "xyz§7oom §530k",
       "sha256": "a3653fec75f7c5e359bc4e1ccab882d2139a1b27c23252052fa8b9549e557153",
-      "size": 1012118,
+      "size": 1012741,
       "added": "2026-11-25"
     },
     {
@@ -8565,8 +8565,8 @@
       "id": "mace_xyz_7oom_530k",
       "category": "mace",
       "name": "xyz§7oom §530k",
-      "sha256": "e70f8cebf97ff9776d2ee8b1aa66b13434d793ed3c01b6e2f61c40e8f8171290",
-      "size": 1472,
+      "sha256": "781067643338ab1050370566ef9c2d029b6961ee2e770159460bec9203b92b3d",
+      "size": 4664,
       "added": "2026-11-25"
     },
     {
@@ -8718,7 +8718,7 @@
       "category": "crystal",
       "name": "xyz§7oom §535k Old",
       "sha256": "a3653fec75f7c5e359bc4e1ccab882d2139a1b27c23252052fa8b9549e557153",
-      "size": 1012118,
+      "size": 1012741,
       "added": "2026-11-25"
     },
     {
@@ -8789,8 +8789,8 @@
       "id": "mace_xyz_7oom_535k_old",
       "category": "mace",
       "name": "xyz§7oom §535k Old",
-      "sha256": "027a9ea64de163629f94b8b1685119c8e21f938937c76bee373100299a65644f",
-      "size": 2548,
+      "sha256": "a144a5d2edf9fd1a0037075955f2afebd9e0c3619d91017237be9f15b45c3615",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -8918,7 +8918,7 @@
       "category": "crystal",
       "name": "xyz§7oom §535k",
       "sha256": "a3653fec75f7c5e359bc4e1ccab882d2139a1b27c23252052fa8b9549e557153",
-      "size": 1012118,
+      "size": 1012741,
       "added": "2026-11-25"
     },
     {
@@ -8989,8 +8989,8 @@
       "id": "mace_xyz_7oom_535k",
       "category": "mace",
       "name": "xyz§7oom §535k",
-      "sha256": "027a9ea64de163629f94b8b1685119c8e21f938937c76bee373100299a65644f",
-      "size": 2548,
+      "sha256": "a144a5d2edf9fd1a0037075955f2afebd9e0c3619d91017237be9f15b45c3615",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -9110,7 +9110,7 @@
       "category": "crystal",
       "name": "Zoom§7fault §525k [Default]",
       "sha256": "a3653fec75f7c5e359bc4e1ccab882d2139a1b27c23252052fa8b9549e557153",
-      "size": 1012118,
+      "size": 1012741,
       "added": "2026-11-25"
     },
     {
@@ -9165,8 +9165,8 @@
       "id": "mace_zoom_7fault_525k_default",
       "category": "mace",
       "name": "Zoom§7fault §525k [Default]",
-      "sha256": "bf390f4f7f909ec300c8f63e9674fc0465d7b2678111826b90867a54f370861d",
-      "size": 2548,
+      "sha256": "a144a5d2edf9fd1a0037075955f2afebd9e0c3619d91017237be9f15b45c3615",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -9270,7 +9270,7 @@
       "category": "crystal",
       "name": "§1xyzoom 20k Dark Blue",
       "sha256": "b09cfdcae98aceb4104d34215f20dd0c027788ffb1e26872e4a45ed5b9b1075b",
-      "size": 7654,
+      "size": 8277,
       "added": "2026-11-25"
     },
     {
@@ -9333,8 +9333,8 @@
       "id": "mace_1xyzoom_20k_dark_blue",
       "category": "mace",
       "name": "§1xyzoom 20k Dark Blue",
-      "sha256": "267eb8411165fc3e5f4de6e40ef1e3c7396229dc901f1abcb032950a90527ce5",
-      "size": 1400,
+      "sha256": "ddb2ee07280c919133c285e8a756a808a922f08f30d54e1f0a937b3e3a787b89",
+      "size": 4790,
       "added": "2026-11-25"
     },
     {
@@ -9462,7 +9462,7 @@
       "category": "crystal",
       "name": "§1xyzoom §520k §c[1.21]",
       "sha256": "7acf9960ac66837e0a0e271ca3640a681a3cff3e7f31f83dbeb25eb840504f16",
-      "size": 8176,
+      "size": 8799,
       "added": "2026-11-25"
     },
     {
@@ -9525,8 +9525,8 @@
       "id": "mace_1xyzoom_520k_c_1_21",
       "category": "mace",
       "name": "§1xyzoom §520k §c[1.21]",
-      "sha256": "4401dca489bf873adf20ffb99a4fa0f97099c92a86eb7fc7570d3ec4a61b21d3",
-      "size": 1400,
+      "sha256": "f9822a0e3d84506ef2c9153fc327e44b6218481538a0a8aea81065f2cdc1b6b5",
+      "size": 4790,
       "added": "2026-11-25"
     },
     {
@@ -9654,7 +9654,7 @@
       "category": "crystal",
       "name": "§2xyzoom §520k §d[1.21]",
       "sha256": "ee4be58513f535f120f29210bb4908bd9713348aa1f54ab05e5cc5efc0b5d7aa",
-      "size": 9834,
+      "size": 10457,
       "added": "2026-11-25"
     },
     {
@@ -9717,8 +9717,8 @@
       "id": "mace_2xyzoom_520k_d_1_21",
       "category": "mace",
       "name": "§2xyzoom §520k §d[1.21]",
-      "sha256": "d3a1a5b07833ad441627b0c9939c1c4fc9897a393445581223e171a28ba5401b",
-      "size": 1558,
+      "sha256": "f0e503cb2bb4df7303a625e66a19168600946a3653e81a44916103be9f6d9b3e",
+      "size": 5285,
       "added": "2026-11-25"
     },
     {
@@ -9846,7 +9846,7 @@
       "category": "crystal",
       "name": "§3xyzoom 15k blue devil [1.21]",
       "sha256": "af8aa2f7f832169fe0f256e2b109b2b89c2f0f4e30203b95ac3e8646e17b00eb",
-      "size": 7184,
+      "size": 7433,
       "added": "2026-11-25"
     },
     {
@@ -9917,8 +9917,8 @@
       "id": "mace_3xyzoom_15k_blue_devil_1_21",
       "category": "mace",
       "name": "§3xyzoom 15k blue devil [1.21]",
-      "sha256": "e79d4c72ae70f827c297bfa22040d0a75c2258b9f7d57770c794ddc24e82e57e",
-      "size": 1454,
+      "sha256": "b8ae9fe0d1eea2659a14eec8edad366e8127290d77cdb3277a85e2235a3bfde5",
+      "size": 5113,
       "added": "2026-11-25"
     },
     {
@@ -10070,7 +10070,7 @@
       "category": "crystal",
       "name": "§3xyzoom 20k Cyan",
       "sha256": "2960e5773e79adfef84912e7633d1196834e9b4f930a82e9a9e2fc833cde42b9",
-      "size": 7875,
+      "size": 8498,
       "added": "2026-11-25"
     },
     {
@@ -10133,8 +10133,8 @@
       "id": "mace_3xyzoom_20k_cyan",
       "category": "mace",
       "name": "§3xyzoom 20k Cyan",
-      "sha256": "6498aaabc1d3aa7665233b6fd7e66aa0de81bf3158fec5330c715ddf58a6aec0",
-      "size": 1538,
+      "sha256": "5c5311cdb31f4debcad51e974588e738839075907438773979016271d506c90d",
+      "size": 5248,
       "added": "2026-11-25"
     },
     {
@@ -10262,7 +10262,7 @@
       "category": "crystal",
       "name": "§4xyzoom 15k red [1.21]",
       "sha256": "9355a3b894d234d620e3a7e600706fee916954377e00c01fc9d3c61d4f4c3a2c",
-      "size": 7184,
+      "size": 7433,
       "added": "2026-11-25"
     },
     {
@@ -10333,8 +10333,8 @@
       "id": "mace_4xyzoom_15k_red_1_21",
       "category": "mace",
       "name": "§4xyzoom 15k red [1.21]",
-      "sha256": "eada1c7e457ecf3cdd3e87df9f9aba1ee9d87169da505a9cbb0404d978dffc5e",
-      "size": 1257,
+      "sha256": "8d5c1fc99096ad73729dec1acf9a249edd17e24b9ae3f3eb6d6a60b578f9ae79",
+      "size": 4406,
       "added": "2026-11-25"
     },
     {
@@ -10486,7 +10486,7 @@
       "category": "crystal",
       "name": "§4xyzoom §520k §d[1.21]",
       "sha256": "6dc4e0181331a12fbfa173b4cd8f3725a20fdab092528f0cedaf9f31b25c7bba",
-      "size": 5265,
+      "size": 5888,
       "added": "2026-11-25"
     },
     {
@@ -10549,8 +10549,8 @@
       "id": "mace_4xyzoom_520k_d_1_21",
       "category": "mace",
       "name": "§4xyzoom §520k §d[1.21]",
-      "sha256": "7d4bea08a33d1b086ba3d7255358689cbd314c980845e19a1e7d0715616ff946",
-      "size": 1532,
+      "sha256": "5b13bc94afaec18be1aa0271fc3bedde78fd24b2a1713c816808f769771e7880",
+      "size": 5232,
       "added": "2026-11-25"
     },
     {
@@ -10670,7 +10670,7 @@
       "category": "crystal",
       "name": "§4Zoomfault §525k §4[Red]",
       "sha256": "95acc56fc3fe0f54f513c2d2a3916e4c4fe995eb8757cb893a829c5cf1837748",
-      "size": 553180,
+      "size": 553803,
       "added": "2026-11-25"
     },
     {
@@ -10725,8 +10725,8 @@
       "id": "mace_4zoomfault_525k_4_red",
       "category": "mace",
       "name": "§4Zoomfault §525k §4[Red]",
-      "sha256": "27509c40e0ac786538ce1a3c684d9c5562224ce5873747fa744275681a7ab3fd",
-      "size": 1384,
+      "sha256": "c79b7c0f04c41601307a51c95dc11fe60ea208e2b892ad39fd1197fb9ff95733",
+      "size": 4619,
       "added": "2026-11-25"
     },
     {
@@ -10846,7 +10846,7 @@
       "category": "crystal",
       "name": "§5xyzoom 20k Purple",
       "sha256": "aca1a9cb33a283a8f90aa3f5aa434cb2387e543dfb807abd83e0f25ce30027d6",
-      "size": 7611,
+      "size": 8234,
       "added": "2026-11-25"
     },
     {
@@ -10909,8 +10909,8 @@
       "id": "mace_5xyzoom_20k_purple",
       "category": "mace",
       "name": "§5xyzoom 20k Purple",
-      "sha256": "7f952c5f304fb8c8fb997ae0ab7e5c3d90b0317d447657316dc6caf1381eeb93",
-      "size": 1378,
+      "sha256": "0a921abb891f78f1219ebc822207ad67df749efe6efc31a86248d45f87dc8e9d",
+      "size": 4765,
       "added": "2026-11-25"
     },
     {
@@ -11030,7 +11030,7 @@
       "category": "crystal",
       "name": "§5xyzoom 20k §d[1.21]",
       "sha256": "b6ce114eba972efd868ca6fb71315a406c42ab65a6527e797017aba797691f35",
-      "size": 4163,
+      "size": 4786,
       "added": "2026-11-25"
     },
     {
@@ -11093,8 +11093,8 @@
       "id": "mace_5xyzoom_20k_d_1_21",
       "category": "mace",
       "name": "§5xyzoom 20k §d[1.21]",
-      "sha256": "3c844ada5218e00741d6a2b3e543bcefbcae5b560d1ca5db2b1d3ff50b8fee9c",
-      "size": 1507,
+      "sha256": "ab922f0c7f2ffbbf2212dbfb68e7e3eac6fb00ae175f6abd56fc4b06118336fe",
+      "size": 5158,
       "added": "2026-11-25"
     },
     {
@@ -11214,7 +11214,7 @@
       "category": "crystal",
       "name": "§5xyz§9oom §520k §9Dark Purple",
       "sha256": "9d21fc1438dfa358877f315e9064be85511a9342ae035f2b0177050a3524548a",
-      "size": 7934,
+      "size": 8557,
       "added": "2026-11-25"
     },
     {
@@ -11277,8 +11277,8 @@
       "id": "mace_5xyz_9oom_520k_9dark_purple",
       "category": "mace",
       "name": "§5xyz§9oom §520k §9Dark Purple",
-      "sha256": "5f04c5f768946cc24265fe2afa7bfb1b1e5f10ba82daeab13d06418e4d99a35c",
-      "size": 1537,
+      "sha256": "705a438c5b8ccd35cf3864ba80bb81520f6f5e402409a3057fae32b80b5c1f6e",
+      "size": 5250,
       "added": "2026-11-25"
     },
     {
@@ -11406,7 +11406,7 @@
       "category": "crystal",
       "name": "§6xyzoom 20k Orange",
       "sha256": "5e92b13c85bdfb270e1539b601af03b1aa027c0fb6445812cdbbdc68ad86d674",
-      "size": 7530,
+      "size": 8153,
       "added": "2026-11-25"
     },
     {
@@ -11469,8 +11469,8 @@
       "id": "mace_6xyzoom_20k_orange",
       "category": "mace",
       "name": "§6xyzoom 20k Orange",
-      "sha256": "b598afb72d5c9a811e3700f06210a260f1251a255bff8c9779ada12b7afa0675",
-      "size": 1383,
+      "sha256": "1601adba864ac823d12018917a1ec0b04f3b368296c15c51aa6b00e62b39c0b5",
+      "size": 4768,
       "added": "2026-11-25"
     },
     {
@@ -11590,7 +11590,7 @@
       "category": "crystal",
       "name": "§6xyzoom §520k §d[1.21]",
       "sha256": "1c8302b208fa9cd4445e0fe6643fa46138345585fc05b46faf588c6d13e7438f",
-      "size": 4036,
+      "size": 4659,
       "added": "2026-11-25"
     },
     {
@@ -11653,8 +11653,8 @@
       "id": "mace_6xyzoom_520k_d_1_21",
       "category": "mace",
       "name": "§6xyzoom §520k §d[1.21]",
-      "sha256": "efdb6fafa02212addacd284411c7346440fb8b31e12e4208d53a040f5f4f5a1a",
-      "size": 1481,
+      "sha256": "48b8760e6ab4c040710facfafd067d319b2692c0d178bdd850897780d71b3967",
+      "size": 5143,
       "added": "2026-11-25"
     },
     {
@@ -11774,7 +11774,7 @@
       "category": "crystal",
       "name": "§9xyzoom 20k Royale Blue",
       "sha256": "c12fbb9e7fde5c2c5861d2f26bbb0b58e66cc16e2e08ab892a113f9d5e1ff991",
-      "size": 7471,
+      "size": 8094,
       "added": "2026-11-25"
     },
     {
@@ -11837,8 +11837,8 @@
       "id": "mace_9xyzoom_20k_royale_blue",
       "category": "mace",
       "name": "§9xyzoom 20k Royale Blue",
-      "sha256": "7f5a23f328b73979df49ec5acc96c787605604282e7acf3a6a05dd84a0a5a981",
-      "size": 1379,
+      "sha256": "abfe3069fd80b7dce485d099dd5056edc1536544886f9c74d12d5d2bfe964456",
+      "size": 4765,
       "added": "2026-11-25"
     },
     {
@@ -11958,7 +11958,7 @@
       "category": "crystal",
       "name": "§9Zoomfault §525k §9[Royale Blue]",
       "sha256": "465422f81d0be0790e90476fd1d284409a6e1e9523a768c39f78fbc810099bb7",
-      "size": 725872,
+      "size": 726495,
       "added": "2026-11-25"
     },
     {
@@ -12013,8 +12013,8 @@
       "id": "mace_9zoomfault_525k_9_royale_blue",
       "category": "mace",
       "name": "§9Zoomfault §525k §9[Royale Blue]",
-      "sha256": "1fbc8f0099e2608514c87d4bfb1fd7de469d9e010a6ec554baf5ba2c683caf70",
-      "size": 1420,
+      "sha256": "92063180084b7452749527a4737c6898964f49301cec9329e425d4e96e871f4f",
+      "size": 4663,
       "added": "2026-11-25"
     },
     {
@@ -12134,7 +12134,7 @@
       "category": "crystal",
       "name": "§axyzoom 20k Aqua",
       "sha256": "0e226dbe5a6fde27aaf2fec343d177afbc0b948cfc855963836c7961e37cbc2a",
-      "size": 7568,
+      "size": 8191,
       "added": "2026-11-25"
     },
     {
@@ -12197,8 +12197,8 @@
       "id": "mace_axyzoom_20k_aqua",
       "category": "mace",
       "name": "§axyzoom 20k Aqua",
-      "sha256": "b0ce94ed97fad1171360d4ab4c00bd051c83244aaf8fdee6e4452250f7dca596",
-      "size": 1382,
+      "sha256": "3a41c1a34aa1a47f1c98c8cebd9bb2cad3833363a94e6684423741eef175cb39",
+      "size": 4769,
       "added": "2026-11-25"
     },
     {
@@ -12318,7 +12318,7 @@
       "category": "crystal",
       "name": "§bxyzoom §35k §9Royal Blue",
       "sha256": "8a94d2a5d2669e0965f76726491dd9b8f1eed4758e7fc8e3f264c10e30df80fd",
-      "size": 655453,
+      "size": 655702,
       "added": "2026-11-25"
     },
     {
@@ -12389,8 +12389,8 @@
       "id": "mace_bxyzoom_35k_9royal_blue",
       "category": "mace",
       "name": "§bxyzoom §35k §9Royal Blue",
-      "sha256": "647b0146a04044f80258486b851f821ac6ab71d276a032399db2789c7e526b9d",
-      "size": 2548,
+      "sha256": "0778eb8d42c0780d9577799c035b770798b303adfc55dfc8150dced7e67efa24",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -12518,7 +12518,7 @@
       "category": "crystal",
       "name": "§bxyzoom §520k §d[1.21]",
       "sha256": "1ea581a7921f05702502746f5331d811a34642882cb2d01b469fc7f026297d1f",
-      "size": 5608,
+      "size": 6231,
       "added": "2026-11-25"
     },
     {
@@ -12581,8 +12581,8 @@
       "id": "mace_bxyzoom_520k_d_1_21",
       "category": "mace",
       "name": "§bxyzoom §520k §d[1.21]",
-      "sha256": "647b0146a04044f80258486b851f821ac6ab71d276a032399db2789c7e526b9d",
-      "size": 2548,
+      "sha256": "0778eb8d42c0780d9577799c035b770798b303adfc55dfc8150dced7e67efa24",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -12686,7 +12686,7 @@
       "category": "crystal",
       "name": "§bxyzoom §5Private (1)",
       "sha256": "cb0ca84e4f6c3d64936802c29d2637298a30f935bf70a0bcc49f40ae0f8e8e01",
-      "size": 4816,
+      "size": 5439,
       "added": "2026-11-25"
     },
     {
@@ -12749,7 +12749,7 @@
       "id": "mace_bxyzoom_5private_1",
       "category": "mace",
       "name": "§bxyzoom §5Private (1)",
-      "sha256": "11aedc14bf611929b81babba083dabd22b2d08891750614d0f5a1afd28065e00",
+      "sha256": "78e1600dea4f92bd1b6d9aebfdf9e3d11ea64374607a98cd2e28194f8284fcce",
       "size": 622,
       "added": "2026-11-25"
     },
@@ -12854,7 +12854,7 @@
       "category": "crystal",
       "name": "§bxyzoom §5Private §f- §9Royale Blue",
       "sha256": "3c2c55c4336d957a6dede9a9618058f07af6e636aca18b12d9f48a28fec56e29",
-      "size": 8777,
+      "size": 9400,
       "added": "2026-11-25"
     },
     {
@@ -12917,7 +12917,7 @@
       "id": "mace_bxyzoom_5private_f_9royale_blue",
       "category": "mace",
       "name": "§bxyzoom §5Private §f- §9Royale Blue",
-      "sha256": "fd0d74f11ab70a4946240c90c8375568889378121d411ac9f4c50cdbc104b4ac",
+      "sha256": "492a39e31df9c956c4961d3585fa908d62c53d8f777dd78d11900c8be86c504e",
       "size": 456,
       "added": "2026-11-25"
     },
@@ -13022,7 +13022,7 @@
       "category": "crystal",
       "name": "§bxyzoom §5Private §f- §aJade",
       "sha256": "32d4ef56304f21e5dde5340639b8bbd31a01a0073b980dc6b07f65820a365704",
-      "size": 9969,
+      "size": 10592,
       "added": "2026-11-25"
     },
     {
@@ -13085,7 +13085,7 @@
       "id": "mace_bxyzoom_5private_f_ajade",
       "category": "mace",
       "name": "§bxyzoom §5Private §f- §aJade",
-      "sha256": "b83982bc74f440535bc8fc5c36df2f627208dd00bdfe456342ca5476bf8ae266",
+      "sha256": "8d6d1dda18e123e74f56558cec8fb7ae68f0485151d669e05dbd1d8c906a90b2",
       "size": 622,
       "added": "2026-11-25"
     },
@@ -13190,7 +13190,7 @@
       "category": "crystal",
       "name": "§bxyzoom §5Private §f- §dSakura mit Part",
       "sha256": "b0249e03cdf7bd1cae03b49b632ed10ffb5f618e9424d32dcb80ead73bc9d618",
-      "size": 9487,
+      "size": 10110,
       "added": "2026-11-25"
     },
     {
@@ -13253,7 +13253,7 @@
       "id": "mace_bxyzoom_5private_f_dsakura_mit_part",
       "category": "mace",
       "name": "§bxyzoom §5Private §f- §dSakura mit Part",
-      "sha256": "ba1b477657c94b2096a4b17ed71225e3c963d5716a937b0817296f933b246e3f",
+      "sha256": "f06168098a9e52108d9112a378785f48b98c8072629cdb78ae925cbc0e67f908",
       "size": 623,
       "added": "2026-11-25"
     },
@@ -13358,7 +13358,7 @@
       "category": "crystal",
       "name": "§bxyzoom §5Private §f- §dSakura",
       "sha256": "b0249e03cdf7bd1cae03b49b632ed10ffb5f618e9424d32dcb80ead73bc9d618",
-      "size": 9487,
+      "size": 10110,
       "added": "2026-11-25"
     },
     {
@@ -13421,7 +13421,7 @@
       "id": "mace_bxyzoom_5private_f_dsakura",
       "category": "mace",
       "name": "§bxyzoom §5Private §f- §dSakura",
-      "sha256": "ba1b477657c94b2096a4b17ed71225e3c963d5716a937b0817296f933b246e3f",
+      "sha256": "f06168098a9e52108d9112a378785f48b98c8072629cdb78ae925cbc0e67f908",
       "size": 623,
       "added": "2026-11-25"
     },
@@ -13526,7 +13526,7 @@
       "category": "crystal",
       "name": "§bxyzoom §5Private",
       "sha256": "2cda2bfad9d633bfa6df1a7799febbd8cb1b2761aad63c4c9407d799ff462478",
-      "size": 4816,
+      "size": 5439,
       "added": "2026-11-25"
     },
     {
@@ -13589,7 +13589,7 @@
       "id": "mace_bxyzoom_5private",
       "category": "mace",
       "name": "§bxyzoom §5Private",
-      "sha256": "5892bc2af703f55b909dfe03dafda1602097e61476532ff7aa265660ee99362d",
+      "sha256": "f5c792e735ae4ffd65ab427de437ab7069defd41ff19cab59fb6dd8c2a57a77b",
       "size": 622,
       "added": "2026-11-25"
     },
@@ -13686,7 +13686,7 @@
       "category": "crystal",
       "name": "§bxyzoom §910k §d[1.21]",
       "sha256": "bd8c3e16ced6a17a8d60cc7152387e4b9956b7a662f305a0810348cb8112daa4",
-      "size": 655453,
+      "size": 655702,
       "added": "2026-11-25"
     },
     {
@@ -13757,8 +13757,8 @@
       "id": "mace_bxyzoom_910k_d_1_21",
       "category": "mace",
       "name": "§bxyzoom §910k §d[1.21]",
-      "sha256": "468e015d2296f3bce4993d8f5205e8bf22365d94e00017fde48b2f42db2fe503",
-      "size": 1432,
+      "sha256": "f47df47c68a8dec083f1ce20572565f5db7480012d6d90d65d99735de60d14d5",
+      "size": 4619,
       "added": "2026-11-25"
     },
     {
@@ -13902,7 +13902,7 @@
       "category": "crystal",
       "name": "§bxyzoom §96k §d[1.21]",
       "sha256": "bd8c3e16ced6a17a8d60cc7152387e4b9956b7a662f305a0810348cb8112daa4",
-      "size": 655453,
+      "size": 655702,
       "added": "2026-11-25"
     },
     {
@@ -13973,8 +13973,8 @@
       "id": "mace_bxyzoom_96k_d_1_21",
       "category": "mace",
       "name": "§bxyzoom §96k §d[1.21]",
-      "sha256": "03544e9c0d9020a90e17c293c41d28cebca8879ebde9f4f123328a34a79d8802",
-      "size": 2548,
+      "sha256": "efb859432164c953c0d2754e0868d1ef748bdf755bfc4e3c239b86937efd182d",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -14118,7 +14118,7 @@
       "category": "crystal",
       "name": "§bxyzoom §97k §d[1.21]",
       "sha256": "82bb8f78bc7f51da80472dd0f69ec3ec4c515cd1f0b55c9c0292ece2820d6458",
-      "size": 655453,
+      "size": 655702,
       "added": "2026-11-25"
     },
     {
@@ -14189,8 +14189,8 @@
       "id": "mace_bxyzoom_97k_d_1_21",
       "category": "mace",
       "name": "§bxyzoom §97k §d[1.21]",
-      "sha256": "405f39b197fa3e09f1534745fcd4c73aacd5b1925724c27a805772a96d050dc1",
-      "size": 2548,
+      "sha256": "3dd17b9eb5a1bb85b7828662403293e62ef0828394c1e5149046758256ab9cb3",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -14334,7 +14334,7 @@
       "category": "crystal",
       "name": "§bxyzoom §98k §d[1.21]",
       "sha256": "82bb8f78bc7f51da80472dd0f69ec3ec4c515cd1f0b55c9c0292ece2820d6458",
-      "size": 655453,
+      "size": 655702,
       "added": "2026-11-25"
     },
     {
@@ -14405,8 +14405,8 @@
       "id": "mace_bxyzoom_98k_d_1_21",
       "category": "mace",
       "name": "§bxyzoom §98k §d[1.21]",
-      "sha256": "405f39b197fa3e09f1534745fcd4c73aacd5b1925724c27a805772a96d050dc1",
-      "size": 2548,
+      "sha256": "ae5d2d7b60614b7044831ed2fbf5802c65ab5a8f3d1a85256d16e305f010a95a",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -14550,7 +14550,7 @@
       "category": "crystal",
       "name": "§bxyzoom §99k §d[1.21]",
       "sha256": "82bb8f78bc7f51da80472dd0f69ec3ec4c515cd1f0b55c9c0292ece2820d6458",
-      "size": 655453,
+      "size": 655702,
       "added": "2026-11-25"
     },
     {
@@ -14621,8 +14621,8 @@
       "id": "mace_bxyzoom_99k_d_1_21",
       "category": "mace",
       "name": "§bxyzoom §99k §d[1.21]",
-      "sha256": "cf701fd5fa1a0b54bcd65310a2bbf029302271b6c9d7c2a6ac9eb034a26dd3aa",
-      "size": 2548,
+      "sha256": "ae5d2d7b60614b7044831ed2fbf5802c65ab5a8f3d1a85256d16e305f010a95a",
+      "size": 5740,
       "added": "2026-11-25"
     },
     {
@@ -14774,7 +14774,7 @@
       "category": "crystal",
       "name": "§bxyz§3oom §520k §d[1.21]",
       "sha256": "192aa8df24e5075c800aa7b7b8503ffa781f4d296a3aebffe0e1385a2c475637",
-      "size": 9176,
+      "size": 9799,
       "added": "2026-11-25"
     },
     {
@@ -14837,8 +14837,8 @@
       "id": "mace_bxyz_3oom_520k_d_1_21",
       "category": "mace",
       "name": "§bxyz§3oom §520k §d[1.21]",
-      "sha256": "76444851c75a7be479b571d74f000ab56ddd0cbbe50f64dba9ecca1556a4c245",
-      "size": 1579,
+      "sha256": "d5f472a88950b9d192e89c84a5e6f916bc6bdf0f6a01e10cba711cd946b1e6a3",
+      "size": 5318,
       "added": "2026-11-25"
     },
     {
@@ -14958,7 +14958,7 @@
       "category": "crystal",
       "name": "§bZoomfault §525k §b[Blue]",
       "sha256": "cdeea889b8a5086dea840c2f6ee13d8f3902b259ad5f2e56559e00c759a3a3a6",
-      "size": 620203,
+      "size": 620826,
       "added": "2026-11-25"
     },
     {
@@ -15013,8 +15013,8 @@
       "id": "mace_bzoomfault_525k_b_blue",
       "category": "mace",
       "name": "§bZoomfault §525k §b[Blue]",
-      "sha256": "725a176249dbe7fe023f5579db8cd4fa7c1b59f67304f6160462bb6202e9e5f4",
-      "size": 1388,
+      "sha256": "da421d56cfe0e2a7df362c9c9943042498528eb69b087f47031184b6d470afe7",
+      "size": 4623,
       "added": "2026-11-25"
     },
     {
@@ -15134,7 +15134,7 @@
       "category": "crystal",
       "name": "§b§lxyzoom §9§l15k §d§l[1.21]",
       "sha256": "3c93dad0059ed4f96737b617cb364c6dd9f4950902c953c5ad16b397b6c9017f",
-      "size": 7184,
+      "size": 7433,
       "added": "2026-11-25"
     },
     {
@@ -15205,8 +15205,8 @@
       "id": "mace_b_lxyzoom_9_l15k_d_l_1_21",
       "category": "mace",
       "name": "§b§lxyzoom §9§l15k §d§l[1.21]",
-      "sha256": "dc71802e0129d699bd0656d2cd8f64d56300cb4a4304b8e93532fa50b422baf1",
-      "size": 1409,
+      "sha256": "f613688be9e35449eb54291fda0e5f7901738dea1770d0bbf5a5a989df4d0775",
+      "size": 4590,
       "added": "2026-11-25"
     },
     {
@@ -15358,7 +15358,7 @@
       "category": "crystal",
       "name": "§cxyzoom 20k Rose",
       "sha256": "2025efbe519057f00b8a200e8f64f5a0b54a70239eb381437aa78b7ce0df92ce",
-      "size": 7545,
+      "size": 8168,
       "added": "2026-11-25"
     },
     {
@@ -15421,8 +15421,8 @@
       "id": "mace_cxyzoom_20k_rose",
       "category": "mace",
       "name": "§cxyzoom 20k Rose",
-      "sha256": "074c1f76567fc6d4e70d67491bc39e337c42cacd9386313206298778bf83f657",
-      "size": 1378,
+      "sha256": "ca648bc31967b887757d067bb9d175cb7c8980eec2a22f977441a53170eaef53",
+      "size": 4764,
       "added": "2026-11-25"
     },
     {
@@ -15550,7 +15550,7 @@
       "category": "crystal",
       "name": "§dxyzoom 20k Pink",
       "sha256": "e85bc28d4a61252235907e09b227feaf665768274de443a170a89847422e4714",
-      "size": 7562,
+      "size": 8185,
       "added": "2026-11-25"
     },
     {
@@ -15613,8 +15613,8 @@
       "id": "mace_dxyzoom_20k_pink",
       "category": "mace",
       "name": "§dxyzoom 20k Pink",
-      "sha256": "819f734ca805d24abeaf30cd1cd5eb863f4d15a06487056a3da10085f562b23c",
-      "size": 1378,
+      "sha256": "5a9e0475bc0c58c5ae1a06a179865c6635075ca08679b1ef78a54a853cc548df",
+      "size": 4766,
       "added": "2026-11-25"
     },
     {
@@ -15734,7 +15734,7 @@
       "category": "crystal",
       "name": "§dxyzoom §520k §d[1.21]",
       "sha256": "acca266ae6b17e25c8fc8dbf5a32b1afe8151fc7a3463529a9c5c5d7f147483d",
-      "size": 3845,
+      "size": 4468,
       "added": "2026-11-25"
     },
     {
@@ -15797,8 +15797,8 @@
       "id": "mace_dxyzoom_520k_d_1_21",
       "category": "mace",
       "name": "§dxyzoom §520k §d[1.21]",
-      "sha256": "ab20dc3e1abc59a68d5d998bb9666ee7ebd228d0b8894d0e16685d0d49bc3cb2",
-      "size": 1338,
+      "sha256": "f171e17f32b9e39f237ec97de579f404ad303b8b094ab9d691e0d444181895e5",
+      "size": 4512,
       "added": "2026-11-25"
     },
     {
@@ -15918,7 +15918,7 @@
       "category": "crystal",
       "name": "§exyzoom §520k §b[Blue Diamonds]",
       "sha256": "088434246e942b355f3916d795a80b4087971e3a31d36b68ad644f65e2c029d3",
-      "size": 8701,
+      "size": 9324,
       "added": "2026-11-25"
     },
     {
@@ -15981,8 +15981,8 @@
       "id": "mace_exyzoom_520k_b_blue_diamonds",
       "category": "mace",
       "name": "§exyzoom §520k §b[Blue Diamonds]",
-      "sha256": "1a21012c828eaf290c2f1410e6d3ce63c33f82154a1ddf3b223c9dae26c462d7",
-      "size": 1409,
+      "sha256": "991a7f9dcbc6ab8eb0092bd42c569cb5f1ca3e80b71754cd5d9b1330968f1e6b",
+      "size": 4812,
       "added": "2026-11-25"
     },
     {
@@ -16110,7 +16110,7 @@
       "category": "crystal",
       "name": "§exyzoom §520k §d[1.21]",
       "sha256": "e1afea3062c88dcbf27e7ee40470d79bb8a2c5fe734cab76d675719c111ec26f",
-      "size": 8701,
+      "size": 9324,
       "added": "2026-11-25"
     },
     {
@@ -16173,8 +16173,8 @@
       "id": "mace_exyzoom_520k_d_1_21",
       "category": "mace",
       "name": "§exyzoom §520k §d[1.21]",
-      "sha256": "1a21012c828eaf290c2f1410e6d3ce63c33f82154a1ddf3b223c9dae26c462d7",
-      "size": 1409,
+      "sha256": "991a7f9dcbc6ab8eb0092bd42c569cb5f1ca3e80b71754cd5d9b1330968f1e6b",
+      "size": 4812,
       "added": "2026-11-25"
     },
     {
@@ -16302,7 +16302,7 @@
       "category": "crystal",
       "name": "§exyz§aoom §e20k §aLime",
       "sha256": "42d3be93f748bcb366eff130e55e8920c6cf7dad56db553aff837894a076685a",
-      "size": 7601,
+      "size": 8224,
       "added": "2026-11-25"
     },
     {
@@ -16365,8 +16365,8 @@
       "id": "mace_exyz_aoom_e20k_alime",
       "category": "mace",
       "name": "§exyz§aoom §e20k §aLime",
-      "sha256": "343b4eb8c9385cccbdcaa6939ca932d4c731dc1cf710d7c05808f3a4f2e8846f",
-      "size": 1384,
+      "sha256": "357e0200241c339db39e1e26d5d1a7db6080082b618b4cb271487cdf346760a3",
+      "size": 4773,
       "added": "2026-11-25"
     },
     {
@@ -16494,7 +16494,7 @@
       "category": "crystal",
       "name": "§fxyz§boom 20k §fIce",
       "sha256": "4b4070b4bbf98c32d58804fbc9e4d5c7c1b8e0ca2c6d231dd52faf17bc97accc",
-      "size": 7926,
+      "size": 8549,
       "added": "2026-11-25"
     },
     {
@@ -16565,8 +16565,8 @@
       "id": "mace_fxyz_boom_20k_fice",
       "category": "mace",
       "name": "§fxyz§boom 20k §fIce",
-      "sha256": "bc880b47ce1cd5d8e8ad1be1c693117d1afd61dc7d6facdc8daab2e7bb745399",
-      "size": 1554,
+      "sha256": "2c2d11768d27c53ea78d81402696c803dceef0b9c4f410f7fd77d52d8e4f262e",
+      "size": 5276,
       "added": "2026-11-25"
     },
     {
@@ -16702,7 +16702,7 @@
       "category": "crystal",
       "name": "§fxy§7zo§8om §f2§70§8k Black §7& §fWhite",
       "sha256": "1a5e5329b461d8c38e182100db8d9960bb5ba071255e83c168cb1831c3ee737e",
-      "size": 7161,
+      "size": 7784,
       "added": "2026-11-25"
     },
     {
@@ -16765,8 +16765,8 @@
       "id": "mace_fxy_7zo_8om_f2_70_8k_black_7_fwhite",
       "category": "mace",
       "name": "§fxy§7zo§8om §f2§70§8k Black §7& §fWhite",
-      "sha256": "df832897bdf444135a1157180925ca27053ccbf29dc9b90b3c3c487f0f733770",
-      "size": 1379,
+      "sha256": "031f578483e1d65da884a78343f53c807710c9c329b6404e37bfd73273b1d8d5",
+      "size": 4625,
       "added": "2026-11-25"
     },
     {
@@ -16886,7 +16886,7 @@
       "category": "crystal",
       "name": "§fZoomfault §525k §f[Silver] §b(Blue Dia",
       "sha256": "9e535e3225109f5df6bfd5bbcd4ffba8d8ebf90f6ea8fbeb348915c45023562f",
-      "size": 501170,
+      "size": 501793,
       "added": "2026-11-25"
     },
     {
@@ -16941,8 +16941,8 @@
       "id": "mace_fzoomfault_525k_f_silver_b_blue_dia",
       "category": "mace",
       "name": "§fZoomfault §525k §f[Silver] §b(Blue Dia",
-      "sha256": "36738f3a6e209bcc51f268a665e3962ff544d6eb663b0ece8cb03236b3944d57",
-      "size": 1538,
+      "sha256": "f27f8024ba4bd4381bba339a8e7d7bc6ed2cfc56ef0fde10d855087c500fcb65",
+      "size": 5109,
       "added": "2026-11-25"
     },
     {
@@ -17054,7 +17054,7 @@
       "category": "crystal",
       "name": "§fZoomfault §525k §f[Silver]",
       "sha256": "66ae35448aec31e313dac6f0af9cff620bc55abc6312a6e1b5ada0ab212981f6",
-      "size": 501170,
+      "size": 501793,
       "added": "2026-11-25"
     },
     {
@@ -17109,8 +17109,8 @@
       "id": "mace_fzoomfault_525k_f_silver",
       "category": "mace",
       "name": "§fZoomfault §525k §f[Silver]",
-      "sha256": "fb464d67982164c7ab729166a0b9e373859e78fb7740b994f88de40340252fb9",
-      "size": 1538,
+      "sha256": "f27f8024ba4bd4381bba339a8e7d7bc6ed2cfc56ef0fde10d855087c500fcb65",
+      "size": 5109,
       "added": "2026-11-25"
     },
     {
@@ -17222,7 +17222,7 @@
       "category": "crystal",
       "name": "vaunta s33 mashup",
       "sha256": "83b118089abb9dbcc29ded67fdde661c42119bbd9264c74e6dd4330de73dec00",
-      "size": 7704,
+      "size": 8327,
       "added": "2026-11-25"
     },
     {
@@ -17405,8 +17405,8 @@
       "id": "mace_zheinski_1k",
       "category": "mace",
       "name": "zheinski 1k",
-      "sha256": "433168f75f726f65961a12cd0a9bfe510fda213b13bd8ae5cfdff225205fb8e8",
-      "size": 521,
+      "sha256": "0353b37e04aa75d19a3c4c653f950d40939b580d311d5db46acb725657faeb14",
+      "size": 733,
       "added": "2026-11-25"
     },
     {
@@ -17557,7 +17557,7 @@
       "id": "mace_zheinskii_2k",
       "category": "mace",
       "name": "zHeinskii_2k",
-      "sha256": "7169076bb8fea538255e29458c6701ccab4deafa4e7e3b7e138b32047ca25440",
+      "sha256": "8164239e66f21ff56b9ad6259c4bb8805e2276a1ad1245d2d921077d7a92330f",
       "size": 615,
       "added": "2026-11-25"
     },
